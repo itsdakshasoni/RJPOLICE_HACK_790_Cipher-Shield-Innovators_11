@@ -1,5 +1,5 @@
 
-<img src="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH" alt="Cipher_Shield-Innovators">
+<img src="https://i.giphy.com/RDZo7znAdn2u7sAcWH.webp" alt="Cipher_Shield-Innovators">
 
 
 
