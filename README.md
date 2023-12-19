@@ -18,7 +18,7 @@ Team Members
 </head>
 <body>
   <h1>Abhijith Soman</h1>
-  <p>Cyber Security</p>
+  <p>Cyber Security Student</p>
   <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b/" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
@@ -31,7 +31,7 @@ Team Members
 </head>
 <body>
   <h1>Himadri Singh</h1>
-  <p>Cyber Security</p>
+  <p>Cyber Security Student</p>
   <a href="https://www.linkedin.com/in/himadri-singh-6a6927261?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEBjER4BoGUCBEKPy2-Xb9hd3tPqYT3BxXs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BCmxYe3%2FBQmaXe4jZJ7K%2B%2BA%3D%3D" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
@@ -44,7 +44,7 @@ Team Members
 </head>
 <body>
   <h1>Daksha Soni</h1>
-  <p>Cyber Security</p>
+  <p>Cyber Security Student</p>
   <a href="https://www.linkedin.com/in/daksha-soni-14052224b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD3V3EABWq9Z0dFZDPRRkYAvrYrHAdpUWNs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BfJdXf%2F77SWO9SSg9nr2K7w%3D%3D" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
@@ -58,7 +58,7 @@ Team Members
 </head>
 <body>
   <h1>Devendra Singh</h1>
-  <p>Cyber Security</p>
+  <p>Cyber Security Student</p>
   <a href="https://www.linkedin.com/in" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
