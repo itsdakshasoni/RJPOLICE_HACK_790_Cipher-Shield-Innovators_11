@@ -43,7 +43,7 @@ Team Members
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Jane Smith</h1>
+  <h1>Daksha Soni</h1>
   <p>Cyber Security</p>
   <a href="https://www.linkedin.com/in/daksha-soni-14052224b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD3V3EABWq9Z0dFZDPRRkYAvrYrHAdpUWNs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BfJdXf%2F77SWO9SSg9nr2K7w%3D%3D" target="_blank">LinkedIn Profile</a>
 </body>
