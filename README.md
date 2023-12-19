@@ -18,7 +18,21 @@ Team Members
 </head>
 <body>
   <h1>Abhijith Soman</h1>
-  <p>Cyber Security Student</p>
+  <p>Cyber Security</p>
   <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b/" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Himadri Singh</h1>
+  <p>Cyber Security</p>
+  <a href="https://www.linkedin.com/in/himadri-singh-6a6927261?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEBjER4BoGUCBEKPy2-Xb9hd3tPqYT3BxXs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BCmxYe3%2FBQmaXe4jZJ7K%2B%2BA%3D%3D" target="_blank">LinkedIn Profile</a>
+</body>
+</html>
+
