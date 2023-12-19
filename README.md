@@ -7,3 +7,19 @@ Threat Detection: Employs machine learning algorithms to analyze gathered data a
 Real-time Alerts: Sends real-time alerts to users when suspicious activities or potential threats are detected.🎯
 User-friendly Dashboard: Provides a user-friendly dashboard for easy monitoring and visualization of dark web activities.🎯
 Customizable Settings: Allows users to customize monitoring preferences and alert settings.🎯
+
+
+Team Members
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abhijith Soman</title>
+</head>
+<body>
+  <h1>John Doe</h1>
+  <p>Software Engineer</p>
+  <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b/" target="_blank">LinkedIn Profile</a>
+</body>
+</html>
