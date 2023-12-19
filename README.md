@@ -18,8 +18,8 @@ Team Members
   <title>Abhijith Soman</title>
 </head>
 <body>
-  <h1>John Doe</h1>
-  <p>Software Engineer</p>
+  <h1>Abhijith Soman</h1>
+  <p>Cyber Security Student</p>
   <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b/" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
